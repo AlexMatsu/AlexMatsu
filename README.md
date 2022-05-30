@@ -1,14 +1,8 @@
-
-- 🔭 Hoje trabalho com Front-end e Back-and
-- 🌱 Estudando Html, Css, Javascripts, 
-- 👯 Contate-me no e-email: alexmatsu@outlook.com
-
-@@ -1,27 +1,27 @@
 ## Ola sou Alex Matsu, Estudante de programação!
 <div align="center">
   <a href="https://github.com/AlexMatsu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmatsu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmatsu&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmatsu&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmatsu&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
