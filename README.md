@@ -1,4 +1,4 @@
-## Ola sou Alex Matsu, Estudante de programação!
+## Ola sou Alex Matsu, Estudante de programação e Design!
 <div align="left">
   <a href="https://github.com/AlexMatsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmatsu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
